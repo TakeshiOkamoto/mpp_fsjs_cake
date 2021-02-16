@@ -118,7 +118,7 @@ bin/cake migrations migrate
 ```
 
 ### シーディング
-次のコマンドで勘定科目のデータを自動登録できます。  
+次のコマンドを実行して勘定科目のデータを自動登録します。  
 ```rb
 bin/cake migrations seed
 ```
